@@ -15,5 +15,5 @@ Upon visiting the website users will see the page as we have designed it. Depend
 
 ##  Summary:
 
-The page works well and you will find hours of entertainment combing through UFO encounters and having a blast with you friends and family!  The site is great, however we could optimize the user experience by giving them controls over the resetting of filters and also creating dropdown filter menus to mitigate errors in spelling or users entering search terms that arent within out data base.  Logging searched terms and stoing them for later review could also allow us to expand upon the data set by researching most commonly searched items and items that may belong inside out table of greatness.
+The page works well and you will find hours of entertainment combing through UFO encounters and having a blast with you friends and family!  The site is great, however we could optimize the user experience by giving them controls over the resetting of filters and also creating dropdown filter menus to mitigate errors in spelling or users entering search terms that arent within out data base.  Logging searched terms and storing them for later review could also allow us to expand upon the data set by researching most commonly searched items and items that may belong inside out table of greatness.
 
