@@ -42,7 +42,7 @@ function updateFilters() {
       filters[filterId] = elementValue;
     }
     else {
-      delete filters[filterID];
+      delete filters[filterId];
     }
     // 6. Call function to apply all filters and rebuild the table
     filterTable();
@@ -53,7 +53,7 @@ function updateFilters() {
   function filterTable() {
   
     // 8. Set the filtered data to the tableData.
-    var filterData = tableData;  
+    var filteredData = tableData;  
   
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
